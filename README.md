@@ -8,7 +8,7 @@ Deploying spring web application on tomcat directly as we do any other web appli
 2) Running a spring application in eclipse needs proper import of maven project if it is existing in source version control. 
    The above statement can be confusing as their can be many folders. The general structure of maven, spring project would be of structure
    
-   spring-proj
+      spring-proj
         |--------src
         |         |---------main
         |         |--------test
